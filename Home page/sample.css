@@ -1,0 +1,24 @@
+/* ready */
+.ready{
+  padding: 50px 0px;
+}
+
+.ready-wrapper > div >div:nth-child(1) > div{
+  padding: 30px;
+  border-radius: 20px;
+background-color: #651FFF;
+}
+.ready-wrapper > div >div:nth-child(2)> div{
+  color: #651FFF;
+  padding: 30px;
+  border-radius: 20px;
+background-color: #ECECFE;
+}
+
+.ready-wrapper > div >div:nth-child(1){
+  color: #ffffff;
+}
+.ready-wrapper > div >div:nth-child(1) a {
+  color: #ffffff;
+  font-weight: 700;
+}
