@@ -1,0 +1,11 @@
+@media screen and (max-width: 425px) {
+
+  .deupload-wrapper  nav span{
+    display: none;
+  }
+  .full{
+    width: 100%;
+  }
+
+  
+}
